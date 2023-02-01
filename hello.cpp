@@ -2,8 +2,8 @@
 #include<conio.h>>
 void main()
 {
-    int hello dushyant sharma
-    printf(" hello dushyant sharma ");
+    int sorry
+    printf(" sorry ");
     getch();
 
 }
